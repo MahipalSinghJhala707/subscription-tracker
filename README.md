@@ -62,7 +62,7 @@ EMAIL_PASS=your_email_password
 
 ```bash
 git clone https://github.com/MahipalSinghJhala707/subscription-tracker.git
-cd subscription-tracker-backend
+cd subscription-tracker
 npm install
 npm run dev
 ```
