@@ -61,7 +61,7 @@ EMAIL_PASS=your_email_password
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/MahipalSinghJhala707/subscription-tracker-backend.git
+git clone https://github.com/MahipalSinghJhala707/subscription-tracker.git
 cd subscription-tracker-backend
 npm install
 npm run dev
